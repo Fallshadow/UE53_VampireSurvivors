@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Survivors.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\FallShadow\UE53_VampireSurvivors\Survivors\Intermediate\Build\Win64\x64\SurvivorsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\FallShadow\UE53_VampireSurvivors\Survivors\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survivors\Survivors.cpp.obj"
+"D:\FallShadow\UE53_VampireSurvivors\Survivors\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survivors\Default.rc2.res"
+/OUT:"D:\FallShadow\UE53_VampireSurvivors\Survivors\Intermediate\Build\Win64\x64\UnrealEditor\Development\Survivors\UnrealEditor-Survivors.lib"

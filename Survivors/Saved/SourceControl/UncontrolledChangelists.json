@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/FallShadow/UE53_VampireSurvivors/Survivors/Content/Maps/02_GameStage.umap",
+				"D:/FallShadow/UE53_VampireSurvivors/Survivors/Content/Maps/01_Menu.umap"
+			]
+		}
+	]
+}
