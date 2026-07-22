@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\FallShadow\\UE53_VampireSurvivors\\Survivors\\Source\\Survivors\\Survivors.Build.cs",
-		"D:\\FallShadow\\UE53_VampireSurvivors\\Survivors\\Source\\Survivors.Target.cs",
-		"D:\\FallShadow\\UE53_VampireSurvivors\\Survivors\\Source\\SurvivorsEditor.Target.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
