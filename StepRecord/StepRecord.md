@@ -15,3 +15,9 @@
 ![alt text](瓦片地图尺寸修改.png)
 
 ![alt text](翻页动画组件.png)
+
+
+![alt text](映射输入内容.png)
+![alt text](输入移动动作_设置2D轴.png)
+![alt text](设置移动动作映射.png)
+![alt text](增强输入系统事件蓝图.png)
