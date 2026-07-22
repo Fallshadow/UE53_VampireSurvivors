@@ -13,3 +13,5 @@
 ![alt text](创建瓦片地图.png)
 ![alt text](瓦片填充.png)
 ![alt text](瓦片地图尺寸修改.png)
+
+![alt text](翻页动画组件.png)
