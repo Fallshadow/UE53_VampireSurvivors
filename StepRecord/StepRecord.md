@@ -21,3 +21,5 @@
 ![alt text](输入移动动作_设置2D轴.png)
 ![alt text](设置移动动作映射.png)
 ![alt text](增强输入系统事件蓝图.png)
+
+![alt text](通过只显示修改项查看修改.png)
